@@ -1,0 +1,15 @@
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\bin\Debug\net6.0\degiskenler.exe
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\bin\Debug\net6.0\degiskenler.deps.json
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\bin\Debug\net6.0\degiskenler.runtimeconfig.json
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\bin\Debug\net6.0\degiskenler.dll
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\bin\Debug\net6.0\ref\degiskenler.dll
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\bin\Debug\net6.0\degiskenler.pdb
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\obj\Debug\net6.0\degiskenler.dll
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\obj\Debug\net6.0\ref\degiskenler.dll
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\obj\Debug\net6.0\degiskenler.pdb
+C:\Users\Tolga\Documents\CODING_PROJECTS\PATIKA\CSharp_Training\degiskenler\obj\Debug\net6.0\degiskenler.genruntimeconfig.cache
